@@ -24,3 +24,4 @@ Adding house door - Macalalay
  Adding house wall - michael 
 >>>>>>> 4aa696176a52319d5cbc7dd126e6f1a892705b46
 Adding house door - Macalalay
+I added house roof
